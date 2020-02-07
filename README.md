@@ -7,7 +7,7 @@ For use with subprocess, for argv injection etc. Using fast REGEX.
 
 ## Installation
 
-In your terminal
+In your terminal execute
 
 	pip install -i https://test.pypi.org/simple/ winshlex 
 
