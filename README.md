@@ -5,6 +5,8 @@ Alternative to shlex for easy split of windows path. Inspired by a [stack overfl
 Python package for multi-platform variant of shlex.split() for command-line splitting.
 For use with subprocess, for argv injection etc. Using fast REGEX.
 
+_Build with: Python 3.7.2_
+
 ## Installation
 
 In your terminal execute
