@@ -1,6 +1,6 @@
 # Winshlex 
 
-Inspired by a [stack overflow post](https://stackoverflow.com/questions/33560364/python-windows-parsing-command-lines-with-shlex). 
+Alternative to shlex for easy split of windows path. Inspired by a [stack overflow post](https://stackoverflow.com/questions/33560364/python-windows-parsing-command-lines-with-shlex). 
 
 Python package for multi-platform variant of shlex.split() for command-line splitting.
 For use with subprocess, for argv injection etc. Using fast REGEX.
