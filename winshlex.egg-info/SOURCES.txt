@@ -1,8 +1,0 @@
-README.md
-setup.py
-winshlex/__init__.py
-winshlex/lex.py
-winshlex.egg-info/PKG-INFO
-winshlex.egg-info/SOURCES.txt
-winshlex.egg-info/dependency_links.txt
-winshlex.egg-info/top_level.txt
