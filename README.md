@@ -11,7 +11,7 @@ _Build with: Python 3.7.2_
 
 In your terminal execute
 
-	pip install -i https://test.pypi.org/simple/ winshlex 
+	pip install winshlex
 
 ## Usage
 
